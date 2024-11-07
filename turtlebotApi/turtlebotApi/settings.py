@@ -12,13 +12,13 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 
 from pathlib import Path
 import os  
+import sys
 import logging 
 import logging.config
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
-
-
+sys.path.insert(0, os.path.join(BASE_DIR, 'ros2_core'))
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
@@ -42,7 +42,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'navigation',
     'battery',
-    'location'
+    'location',
+    'ros2_core'
 ]
 print("settings.py 들어감")
 
@@ -159,6 +160,11 @@ LOGGING = {
             'propagate': True,
         },
         'navigation': {
+            'handlers': ['console', 'file'],
+            'level': 'INFO',
+            'propagate': False,
+        },
+        'ros2_core.ros2_nodes': {
             'handlers': ['console', 'file'],
             'level': 'INFO',
             'propagate': False,
