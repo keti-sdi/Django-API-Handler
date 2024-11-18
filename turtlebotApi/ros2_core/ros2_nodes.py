@@ -74,7 +74,6 @@ class TurtlebotPoseMonitor(Node):
         self.is_publishing = False
 
     def pose_callback(self, msg):
-        # 매핑한 Pose 데이터를 저장하고 로그에 기록합니다.
         logger.info("Pose callback called")
         self.current_pose = {
             'x': msg.pose.pose.position.x,
@@ -83,21 +82,17 @@ class TurtlebotPoseMonitor(Node):
         }
         logger.info(f"Received pose info: {self.current_pose}")
 
-        # RabbitMQ 채널을 통해 메시지를 발행합니다.
         if self.is_publishing and self.rabbitmq_channel:
             pose_data = json.dumps(self.current_pose)
             self.rabbitmq_channel.basic_publish(exchange='', routing_key='turtlebot_pose', body=pose_data)
-            logger.info(f"Published pose to RabbitMQ: {self.current_pose}")
 
     def start_publishing(self):
         if not self.is_publishing:
-            # RabbitMQ 연결을 설정합니다.
             self.rabbitmq_connection = pika.BlockingConnection(pika.ConnectionParameters('10.0.5.53', 30072))
             self.rabbitmq_channel = self.rabbitmq_connection.channel()
             self.rabbitmq_channel.queue_declare(queue='turtlebot_pose')
             self.is_publishing = True
 
-            # 주기적으로 메시지를 발행하기 위해 타이머를 설정합니다.
             self.timer = self.create_timer(3.0, self.publish_pose_to_rabbitmq)  # 3초 간격으로 발행
 
     def publish_pose_to_rabbitmq(self):
@@ -109,7 +104,7 @@ class TurtlebotPoseMonitor(Node):
     def stop_publishing(self):
         if self.is_publishing:
             self.is_publishing = False
-            self.timer.cancel()  # 타이머를 취소하여 메시지 발행을 중지
+            self.timer.cancel()  
             if self.rabbitmq_connection:
                 self.rabbitmq_connection.close()
 

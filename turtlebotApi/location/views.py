@@ -11,7 +11,6 @@ class StartPosePublishingView(View):
 
 class StopPosePublishingView(View):
     def get(self, request, *args, **kwargs):
-        # Shutdown logic here if needed
         return JsonResponse({'status': 'Pose publishing stopped'})
 
 class TurtlebotPoseView(View):

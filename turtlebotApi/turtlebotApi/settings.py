@@ -40,10 +40,12 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'navigation',
-    'battery',
-    'location',
-    'ros2_core'
+    'navigation', # myapp
+    'battery', # myapp
+    'location', # myapp
+    'ros2_core', #my app
+    # 'drf_yasg',
+    # 'rest_framework'
 ]
 print("settings.py 들어감")
 

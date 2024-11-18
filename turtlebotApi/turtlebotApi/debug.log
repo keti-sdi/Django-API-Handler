@@ -18893,3 +18893,701 @@ Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984
 Received battery info: {'voltage': 11.40999984741211, 'percentage': 50.54999923706055}
 Published pose to RabbitMQ: {'x': 0.1670425839980756, 'y': -0.30417794280181554, 'z': 0.0}
 Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.119999885559082, 'percentage': 34.439998626708984}
+Received battery info: {'voltage': 11.09999942779541, 'percentage': 33.32999801635742}
+Received battery info: {'voltage': 11.119999885559082, 'percentage': 34.439998626708984}
+Received battery info: {'voltage': 11.119999885559082, 'percentage': 34.439998626708984}
+Received battery info: {'voltage': 11.09999942779541, 'percentage': 33.32999801635742}
+Received battery info: {'voltage': 11.09999942779541, 'percentage': 33.32999801635742}
+Received battery info: {'voltage': 11.09999942779541, 'percentage': 33.32999801635742}
+Received battery info: {'voltage': 11.119999885559082, 'percentage': 34.439998626708984}
+Received battery info: {'voltage': 11.079999923706055, 'percentage': 32.21999740600586}
+Received battery info: {'voltage': 11.079999923706055, 'percentage': 32.21999740600586}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.469999313354492, 'percentage': 53.87999725341797}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.469999313354492, 'percentage': 53.87999725341797}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.469999313354492, 'percentage': 53.87999725341797}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.469999313354492, 'percentage': 53.87999725341797}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.469999313354492, 'percentage': 53.87999725341797}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.469999313354492, 'percentage': 53.87999725341797}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.429999351501465, 'percentage': 51.65999984741211}
+Received battery info: {'voltage': 11.469999313354492, 'percentage': 53.87999725341797}
+Received battery info: {'voltage': 11.469999313354492, 'percentage': 53.87999725341797}
+Received battery info: {'voltage': 11.489999771118164, 'percentage': 54.98999786376953}
+Received battery info: {'voltage': 11.489999771118164, 'percentage': 54.98999786376953}
+Received battery info: {'voltage': 11.469999313354492, 'percentage': 53.87999725341797}
+Received battery info: {'voltage': 11.489999771118164, 'percentage': 54.98999786376953}
+Received battery info: {'voltage': 11.469999313354492, 'percentage': 53.87999725341797}
+Received battery info: {'voltage': 11.489999771118164, 'percentage': 54.98999786376953}
+Received battery info: {'voltage': 11.469999313354492, 'percentage': 53.87999725341797}
+Received battery info: {'voltage': 11.469999313354492, 'percentage': 53.87999725341797}
+Received battery info: {'voltage': 11.469999313354492, 'percentage': 53.87999725341797}
+Received battery info: {'voltage': 11.469999313354492, 'percentage': 53.87999725341797}
+Received battery info: {'voltage': 11.469999313354492, 'percentage': 53.87999725341797}
+Received battery info: {'voltage': 11.469999313354492, 'percentage': 53.87999725341797}
+Received battery info: {'voltage': 11.469999313354492, 'percentage': 53.87999725341797}
+Received battery info: {'voltage': 11.489999771118164, 'percentage': 54.98999786376953}
+Received battery info: {'voltage': 11.489999771118164, 'percentage': 54.98999786376953}
+Received battery info: {'voltage': 11.449999809265137, 'percentage': 52.77000045776367}
+Received battery info: {'voltage': 11.319999694824219, 'percentage': 45.54999923706055}
+Received battery info: {'voltage': 11.319999694824219, 'percentage': 45.54999923706055}
+Received battery info: {'voltage': 11.34000015258789, 'percentage': 46.65999984741211}
+Received battery info: {'voltage': 11.34000015258789, 'percentage': 46.65999984741211}
+Received battery info: {'voltage': 11.319999694824219, 'percentage': 45.54999923706055}
+Received battery info: {'voltage': 11.34000015258789, 'percentage': 46.65999984741211}
+Received battery info: {'voltage': 11.319999694824219, 'percentage': 45.54999923706055}
+Received battery info: {'voltage': 11.319999694824219, 'percentage': 45.54999923706055}
+Received battery info: {'voltage': 11.319999694824219, 'percentage': 45.54999923706055}
+Received battery info: {'voltage': 11.319999694824219, 'percentage': 45.54999923706055}
+Received battery info: {'voltage': 11.34000015258789, 'percentage': 46.65999984741211}
+Received battery info: {'voltage': 11.34000015258789, 'percentage': 46.65999984741211}
+Received battery info: {'voltage': 11.34000015258789, 'percentage': 46.65999984741211}
+Received battery info: {'voltage': 11.319999694824219, 'percentage': 45.54999923706055}
+Received battery info: {'voltage': 11.319999694824219, 'percentage': 45.54999923706055}
+Received battery info: {'voltage': 11.319999694824219, 'percentage': 45.54999923706055}
+Received battery info: {'voltage': 11.34000015258789, 'percentage': 46.65999984741211}
+Received battery info: {'voltage': 11.319999694824219, 'percentage': 45.54999923706055}
+Received battery info: {'voltage': 11.319999694824219, 'percentage': 45.54999923706055}
+Received battery info: {'voltage': 11.300000190734863, 'percentage': 44.439998626708984}
+Received battery info: {'voltage': 11.319999694824219, 'percentage': 45.54999923706055}
+Received battery info: {'voltage': 11.300000190734863, 'percentage': 44.439998626708984}
+Received battery info: {'voltage': 11.319999694824219, 'percentage': 45.54999923706055}
+Received battery info: {'voltage': 11.300000190734863, 'percentage': 44.439998626708984}
+Received battery info: {'voltage': 11.279999732971191, 'percentage': 43.32999801635742}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.34999942779541, 'percentage': 102.7699966430664}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.34999942779541, 'percentage': 102.7699966430664}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.34999942779541, 'percentage': 102.7699966430664}
+Received battery info: {'voltage': 12.34999942779541, 'percentage': 102.7699966430664}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.329999923706055, 'percentage': 101.65999603271484}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Received battery info: {'voltage': 12.309999465942383, 'percentage': 100.54999542236328}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.279999732971191, 'percentage': 98.87999725341797}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.279999732971191, 'percentage': 98.87999725341797}
+Received battery info: {'voltage': 12.279999732971191, 'percentage': 98.87999725341797}
+Received battery info: {'voltage': 12.279999732971191, 'percentage': 98.87999725341797}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Received battery info: {'voltage': 12.279999732971191, 'percentage': 98.87999725341797}
+Received battery info: {'voltage': 12.279999732971191, 'percentage': 98.87999725341797}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.279999732971191, 'percentage': 98.87999725341797}
+Received battery info: {'voltage': 12.279999732971191, 'percentage': 98.87999725341797}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.279999732971191, 'percentage': 98.87999725341797}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Received battery info: {'voltage': 12.279999732971191, 'percentage': 98.87999725341797}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Received battery info: {'voltage': 12.279999732971191, 'percentage': 98.87999725341797}
+Received battery info: {'voltage': 12.279999732971191, 'percentage': 98.87999725341797}
+Received battery info: {'voltage': 12.279999732971191, 'percentage': 98.87999725341797}
+Received battery info: {'voltage': 12.279999732971191, 'percentage': 98.87999725341797}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Received battery info: {'voltage': 12.279999732971191, 'percentage': 98.87999725341797}
+Received battery info: {'voltage': 12.279999732971191, 'percentage': 98.87999725341797}
+Received battery info: {'voltage': 12.279999732971191, 'percentage': 98.87999725341797}
+Received battery info: {'voltage': 12.279999732971191, 'percentage': 98.87999725341797}
+Received battery info: {'voltage': 12.300000190734863, 'percentage': 100.0}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Received battery info: {'voltage': 12.279999732971191, 'percentage': 98.87999725341797}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Received battery info: {'voltage': 12.279999732971191, 'percentage': 98.87999725341797}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Received battery info: {'voltage': 12.279999732971191, 'percentage': 98.87999725341797}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Received battery info: {'voltage': 12.279999732971191, 'percentage': 98.87999725341797}
+Published pose to RabbitMQ: {'x': None, 'y': None, 'z': None}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Pose callback called
+Received pose info: {'x': 0.6642544489190134, 'y': -0.340123432608342, 'z': 0.0}
+Pose callback called
+Received pose info: {'x': 0.6642544489190134, 'y': -0.340123432608342, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.6642544489190134, 'y': -0.340123432608342, 'z': 0.0}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 0.7264998747342852, 'y': -0.3828913353832566, 'z': 0.0}
+Received pose info: {'x': 0.7264998747342852, 'y': -0.3828913353832566, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.7264998747342852, 'y': -0.3828913353832566, 'z': 0.0}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Published pose to RabbitMQ: {'x': 0.7264998747342852, 'y': -0.3828913353832566, 'z': 0.0}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 0.9953095130667171, 'y': -0.2703716505988401, 'z': 0.0}
+Received pose info: {'x': 0.9953095130667171, 'y': -0.2703716505988401, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.9953095130667171, 'y': -0.2703716505988401, 'z': 0.0}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 1.173305244388597, 'y': -0.2173598230519694, 'z': 0.0}
+Received pose info: {'x': 1.173305244388597, 'y': -0.2173598230519694, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 1.173305244388597, 'y': -0.2173598230519694, 'z': 0.0}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 1.1811016499139853, 'y': -0.20571243696320662, 'z': 0.0}
+Received pose info: {'x': 1.1811016499139853, 'y': -0.20571243696320662, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 1.1811016499139853, 'y': -0.20571243696320662, 'z': 0.0}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 1.1886351269243098, 'y': -0.22771333460675633, 'z': 0.0}
+Received pose info: {'x': 1.1886351269243098, 'y': -0.22771333460675633, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 1.1886351269243098, 'y': -0.22771333460675633, 'z': 0.0}
+Pose callback called
+Received pose info: {'x': 1.1861753725975093, 'y': -0.21954106667223072, 'z': 0.0}
+Pose callback called
+Received pose info: {'x': 1.1861753725975093, 'y': -0.21954106667223072, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 1.1861753725975093, 'y': -0.21954106667223072, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 1.1861753725975093, 'y': -0.21954106667223072, 'z': 0.0}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 1.2125669451314758, 'y': -0.20711254028334228, 'z': 0.0}
+Received pose info: {'x': 1.2125669451314758, 'y': -0.20711254028334228, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 1.2125669451314758, 'y': -0.20711254028334228, 'z': 0.0}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 1.205585768482068, 'y': -0.21048921849525026, 'z': 0.0}
+Received pose info: {'x': 1.205585768482068, 'y': -0.21048921849525026, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 1.205585768482068, 'y': -0.21048921849525026, 'z': 0.0}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 1.207203156897947, 'y': -0.20381631617969026, 'z': 0.0}
+Received pose info: {'x': 1.207203156897947, 'y': -0.20381631617969026, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 1.207203156897947, 'y': -0.20381631617969026, 'z': 0.0}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 1.2007760878694957, 'y': -0.20814375179362193, 'z': 0.0}
+Received pose info: {'x': 1.2007760878694957, 'y': -0.20814375179362193, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 1.2007760878694957, 'y': -0.20814375179362193, 'z': 0.0}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 1.192169925848132, 'y': -0.22012988226036373, 'z': 0.0}
+Received pose info: {'x': 1.192169925848132, 'y': -0.22012988226036373, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 1.192169925848132, 'y': -0.22012988226036373, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Pose callback called
+Received pose info: {'x': 1.1979000300396374, 'y': -0.21904811861586165, 'z': 0.0}
+Pose callback called
+Received pose info: {'x': 1.1979000300396374, 'y': -0.21904811861586165, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 1.1979000300396374, 'y': -0.21904811861586165, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 1.1979000300396374, 'y': -0.21904811861586165, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Published pose to RabbitMQ: {'x': 1.1979000300396374, 'y': -0.21904811861586165, 'z': 0.0}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Published pose to RabbitMQ: {'x': 1.1979000300396374, 'y': -0.21904811861586165, 'z': 0.0}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Published pose to RabbitMQ: {'x': 1.1979000300396374, 'y': -0.21904811861586165, 'z': 0.0}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 1.1677883252448114, 'y': -0.20662900686322516, 'z': 0.0}
+Received pose info: {'x': 1.1677883252448114, 'y': -0.20662900686322516, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 1.1677883252448114, 'y': -0.20662900686322516, 'z': 0.0}
+Pose callback called
+Received pose info: {'x': 1.1379890807771933, 'y': -0.21028039760496572, 'z': 0.0}
+Pose callback called
+Received pose info: {'x': 1.1379890807771933, 'y': -0.21028039760496572, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 1.1379890807771933, 'y': -0.21028039760496572, 'z': 0.0}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 1.1259315141069903, 'y': -0.2128546196685788, 'z': 0.0}
+Received pose info: {'x': 1.1259315141069903, 'y': -0.2128546196685788, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 1.1259315141069903, 'y': -0.2128546196685788, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 1.1259315141069903, 'y': -0.2128546196685788, 'z': 0.0}
+Pose callback called
+Received pose info: {'x': 1.087379390154923, 'y': -0.24989323758060203, 'z': 0.0}
+Pose callback called
+Received pose info: {'x': 1.087379390154923, 'y': -0.24989323758060203, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 1.087379390154923, 'y': -0.24989323758060203, 'z': 0.0}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 1.054208184996864, 'y': -0.25012738431908643, 'z': 0.0}
+Received pose info: {'x': 1.054208184996864, 'y': -0.25012738431908643, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 1.054208184996864, 'y': -0.25012738431908643, 'z': 0.0}
+Received battery info: {'voltage': 12.199999809265137, 'percentage': 94.43999481201172}
+Pose callback called
+Received pose info: {'x': 0.8679331612377266, 'y': -0.2680282482726552, 'z': 0.0}
+Pose callback called
+Received pose info: {'x': 0.8679331612377266, 'y': -0.2680282482726552, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.8679331612377266, 'y': -0.2680282482726552, 'z': 0.0}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 0.8570077195035342, 'y': -0.2616357720076494, 'z': 0.0}
+Received pose info: {'x': 0.8570077195035342, 'y': -0.2616357720076494, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.8570077195035342, 'y': -0.2616357720076494, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.8570077195035342, 'y': -0.2616357720076494, 'z': 0.0}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 0.8634030147014414, 'y': -0.26242570345232186, 'z': 0.0}
+Received pose info: {'x': 0.8634030147014414, 'y': -0.26242570345232186, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.8634030147014414, 'y': -0.26242570345232186, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Published pose to RabbitMQ: {'x': 0.8634030147014414, 'y': -0.26242570345232186, 'z': 0.0}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 0.8723055735437061, 'y': -0.2640413907088959, 'z': 0.0}
+Received pose info: {'x': 0.8723055735437061, 'y': -0.2640413907088959, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.8723055735437061, 'y': -0.2640413907088959, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.8723055735437061, 'y': -0.2640413907088959, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Published pose to RabbitMQ: {'x': 0.8723055735437061, 'y': -0.2640413907088959, 'z': 0.0}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Published pose to RabbitMQ: {'x': 0.8723055735437061, 'y': -0.2640413907088959, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 0.7776812827595018, 'y': -0.27234589424209704, 'z': 0.0}
+Received pose info: {'x': 0.7776812827595018, 'y': -0.27234589424209704, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.7776812827595018, 'y': -0.27234589424209704, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Published pose to RabbitMQ: {'x': 0.7776812827595018, 'y': -0.27234589424209704, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Published pose to RabbitMQ: {'x': 0.7776812827595018, 'y': -0.27234589424209704, 'z': 0.0}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 0.7918447052149713, 'y': -0.27856032015706494, 'z': 0.0}
+Received pose info: {'x': 0.7918447052149713, 'y': -0.27856032015706494, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.7918447052149713, 'y': -0.27856032015706494, 'z': 0.0}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 0.7937380212201675, 'y': -0.2744931749575492, 'z': 0.0}
+Received pose info: {'x': 0.7937380212201675, 'y': -0.2744931749575492, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.7937380212201675, 'y': -0.2744931749575492, 'z': 0.0}
+Received battery info: {'voltage': 12.279999732971191, 'percentage': 98.87999725341797}
+Published pose to RabbitMQ: {'x': 0.7937380212201675, 'y': -0.2744931749575492, 'z': 0.0}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Published pose to RabbitMQ: {'x': 0.7937380212201675, 'y': -0.2744931749575492, 'z': 0.0}
+Pose callback called
+Received pose info: {'x': 0.7517643000052606, 'y': -0.28249574761570817, 'z': 0.0}
+Pose callback called
+Received pose info: {'x': 0.7517643000052606, 'y': -0.28249574761570817, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.7517643000052606, 'y': -0.28249574761570817, 'z': 0.0}
+Received battery info: {'voltage': 12.279999732971191, 'percentage': 98.87999725341797}
+Pose callback called
+Received pose info: {'x': 0.7768045659733183, 'y': -0.2906452342850666, 'z': 0.0}
+Pose callback called
+Received pose info: {'x': 0.7768045659733183, 'y': -0.2906452342850666, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.7768045659733183, 'y': -0.2906452342850666, 'z': 0.0}
+Pose callback called
+Received pose info: {'x': 0.768384638063573, 'y': -0.2895349535960757, 'z': 0.0}
+Pose callback called
+Received pose info: {'x': 0.768384638063573, 'y': -0.2895349535960757, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.768384638063573, 'y': -0.2895349535960757, 'z': 0.0}
+Pose callback called
+Received pose info: {'x': 0.7662869970859665, 'y': -0.28815264678929925, 'z': 0.0}
+Pose callback called
+Received pose info: {'x': 0.7662869970859665, 'y': -0.28815264678929925, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.7662869970859665, 'y': -0.28815264678929925, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 0.760126800597732, 'y': -0.295476047795466, 'z': 0.0}
+Received pose info: {'x': 0.760126800597732, 'y': -0.295476047795466, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.760126800597732, 'y': -0.295476047795466, 'z': 0.0}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 0.746161935695882, 'y': -0.2935579381636063, 'z': 0.0}
+Received pose info: {'x': 0.746161935695882, 'y': -0.2935579381636063, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.746161935695882, 'y': -0.2935579381636063, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.746161935695882, 'y': -0.2935579381636063, 'z': 0.0}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 0.737006025867559, 'y': -0.29285314337532825, 'z': 0.0}
+Received pose info: {'x': 0.737006025867559, 'y': -0.29285314337532825, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.737006025867559, 'y': -0.29285314337532825, 'z': 0.0}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 0.7384867290842606, 'y': -0.28014756279057135, 'z': 0.0}
+Received pose info: {'x': 0.7384867290842606, 'y': -0.28014756279057135, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.7384867290842606, 'y': -0.28014756279057135, 'z': 0.0}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 0.7353053638795539, 'y': -0.2781146761256819, 'z': 0.0}
+Received pose info: {'x': 0.7353053638795539, 'y': -0.2781146761256819, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.7353053638795539, 'y': -0.2781146761256819, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 0.7253954394861678, 'y': -0.27998104139204627, 'z': 0.0}
+Received pose info: {'x': 0.7253954394861678, 'y': -0.27998104139204627, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.7253954394861678, 'y': -0.27998104139204627, 'z': 0.0}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 0.7208456893991328, 'y': -0.2923812780106701, 'z': 0.0}
+Received pose info: {'x': 0.7208456893991328, 'y': -0.2923812780106701, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.7208456893991328, 'y': -0.2923812780106701, 'z': 0.0}
+Pose callback called
+Pose callback called
+Received pose info: {'x': 0.705034860728604, 'y': -0.3062624899079132, 'z': 0.0}
+Received pose info: {'x': 0.705034860728604, 'y': -0.3062624899079132, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.705034860728604, 'y': -0.3062624899079132, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Pose callback called
+Received pose info: {'x': 0.6941744253076919, 'y': -0.29648445686667546, 'z': 0.0}
+Pose callback called
+Received pose info: {'x': 0.6941744253076919, 'y': -0.29648445686667546, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.6941744253076919, 'y': -0.29648445686667546, 'z': 0.0}
+Pose callback called
+Received pose info: {'x': 0.6921656828169734, 'y': -0.29284728912908115, 'z': 0.0}
+Pose callback called
+Received pose info: {'x': 0.6921656828169734, 'y': -0.29284728912908115, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.6921656828169734, 'y': -0.29284728912908115, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.6921656828169734, 'y': -0.29284728912908115, 'z': 0.0}
+Pose callback called
+Received pose info: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Pose callback called
+Received pose info: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Received battery info: {'voltage': 12.25999927520752, 'percentage': 97.7699966430664}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Received battery info: {'voltage': 12.239999771118164, 'percentage': 96.65999603271484}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Received battery info: {'voltage': 12.199999809265137, 'percentage': 94.43999481201172}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Published pose to RabbitMQ: {'x': 0.6812043175801953, 'y': -0.293349522002982, 'z': 0.0}
+Received battery info: {'voltage': 12.199999809265137, 'percentage': 94.43999481201172}
+Received battery info: {'voltage': 12.219999313354492, 'percentage': 95.54999542236328}
+Received battery info: {'voltage': 12.059999465942383, 'percentage': 86.65999603271484}
+Received battery info: {'voltage': 12.059999465942383, 'percentage': 86.65999603271484}
+Received battery info: {'voltage': 12.059999465942383, 'percentage': 86.65999603271484}
+Received battery info: {'voltage': 12.059999465942383, 'percentage': 86.65999603271484}
+Received battery info: {'voltage': 12.059999465942383, 'percentage': 86.65999603271484}
+Received battery info: {'voltage': 12.059999465942383, 'percentage': 86.65999603271484}
