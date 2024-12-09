@@ -135,6 +135,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 # Logging configuration
+print(os.path.join(os.path.dirname(__file__), 'debug.log'))
 LOGGING = {
     'version': 1,
     'disable_existing_loggers': False,

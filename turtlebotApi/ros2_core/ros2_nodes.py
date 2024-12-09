@@ -6,7 +6,7 @@ import logging
 import pika
 import json
 import time
-
+import psutil
 logger = logging.getLogger(__name__)
 
 class SendGoal(Node):
@@ -35,26 +35,49 @@ class BatteryStateMonitor(Node):
             self.battery_callback,
             10
         )
-        self.current_battery_state = {
-            'voltage': None,
-            'percentage': None
-        }
-
         self.rabbitmq_connection = pika.BlockingConnection(pika.ConnectionParameters('10.0.5.53', 30072))
         self.rabbitmq_channel = self.rabbitmq_connection.channel()
-        self.rabbitmq_channel.queue_declare(queue='battery_info')
+        self.rabbitmq_channel.queue_declare(queue='metrics_data')
 
     def battery_callback(self, msg):
-        self.current_battery_state = {
+        battery_data = {
             'voltage': msg.voltage,
             'percentage': msg.percentage
         }
-        logger.info(f"Received battery info: {self.current_battery_state}")
-        battery_data = json.dumps(self.current_battery_state)
-        self.rabbitmq_channel.basic_publish(exchange='', routing_key='battery_info', body=battery_data)
+        cpu_usage = psutil.cpu_percent(interval=None)
+        mem = psutil.virtual_memory()
+        memory_usage = mem.percent
+        disk = psutil.disk_usage('/')
+        net_io = psutil.net_io_counters()
+
+        system_data = {
+            'cpu_usage': cpu_usage,
+            'memory_usage': memory_usage,
+            'disk_usage': {
+                'total': disk.total,
+                'used': disk.used,
+                'free': disk.free,
+                'percent': disk.percent
+            },
+            'network_io': {
+                'bytes_sent': net_io.bytes_sent,
+                'bytes_recv': net_io.bytes_recv,
+                'packets_sent': net_io.packets_sent,
+                'packets_recv': net_io.packets_recv
+            }
+        }
+
+        metrics_data = {
+            'battery': battery_data,
+            'system': system_data
+        }
+
+        logger.info(f"터틀봇 메트릭 데이터: {metrics_data}")
+
+        metrics_json = json.dumps(metrics_data)
+        self.rabbitmq_channel.basic_publish(exchange='', routing_key='metrics_data', body=metrics_json)
+
         time.sleep(3)
-
-
 class TurtlebotPoseMonitor(Node):
     def __init__(self):
         super().__init__('turtlebot_pose_monitor')
@@ -74,13 +97,12 @@ class TurtlebotPoseMonitor(Node):
         self.is_publishing = False
 
     def pose_callback(self, msg):
-        logger.info("Pose callback called")
         self.current_pose = {
             'x': msg.pose.pose.position.x,
             'y': msg.pose.pose.position.y,
             'z': msg.pose.pose.position.z
         }
-        logger.info(f"Received pose info: {self.current_pose}")
+        logger.info(f"터틀봇 현재 위치: {self.current_pose}")
 
         if self.is_publishing and self.rabbitmq_channel:
             pose_data = json.dumps(self.current_pose)
@@ -93,7 +115,7 @@ class TurtlebotPoseMonitor(Node):
             self.rabbitmq_channel.queue_declare(queue='turtlebot_pose')
             self.is_publishing = True
 
-            self.timer = self.create_timer(3.0, self.publish_pose_to_rabbitmq)  # 3초 간격으로 발행
+            self.timer = self.create_timer(3.0, self.publish_pose_to_rabbitmq) 
 
     def publish_pose_to_rabbitmq(self):
         if self.rabbitmq_channel and self.is_publishing:
